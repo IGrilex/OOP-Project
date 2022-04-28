@@ -21,6 +21,5 @@ int main(void)
 
     printSomething<int>(10);
     printSomething<char>('c');
-    //I am sorry for using templates in this way but i cant find a way to include them
-    //in the project :/
+
 }
