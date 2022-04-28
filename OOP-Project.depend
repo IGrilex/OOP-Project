@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1641948698 source:c:\acsprogramare\poo\squidgamezincencopetru321ac\main.cpp
+	<iostream>
+	"Games.h"
+
+1641929623 c:\acsprogramare\poo\squidgamezincencopetru321ac\player.h
+	"User.h"
+	"Settings.h"
+	"Random.h"
+
+1641929355 c:\acsprogramare\poo\squidgamezincencopetru321ac\user.h
+
+1641844146 source:c:\acsprogramare\poo\squidgamezincencopetru321ac\user.cpp
+	<iostream>
+	"User.h"
+
+1641929623 source:c:\acsprogramare\poo\squidgamezincencopetru321ac\player.cpp
+	<iostream>
+	"Player.h"
+	"Random.h"
+
+1641943249 source:c:\acsprogramare\poo\squidgamezincencopetru321ac\supervisor.cpp
+	<iostream>
+	"Supervisor.h"
+
+1641929623 c:\acsprogramare\poo\squidgamezincencopetru321ac\supervisor.h
+	"User.h"
+	"Player.h"
+	"Settings.h"
+	"Random.h"
+
+1642021771 source:c:\acsprogramare\poo\squidgamezincencopetru321ac\random.cpp
+	<iostream>
+	<algorithm>
+	<array>
+	<random>
+	<chrono>
+	<bits/stdc++.h>
+	"Random.h"
+
+1641583546 c:\acsprogramare\poo\squidgamezincencopetru321ac\random.h
+
+1641942829 c:\acsprogramare\poo\squidgamezincencopetru321ac\settings.h
+
+1641946166 source:c:\acsprogramare\poo\squidgamezincencopetru321ac\games.cpp
+	<iostream>
+	<string>
+	"Games.h"
+
+1641945546 c:\acsprogramare\poo\squidgamezincencopetru321ac\games.h
+	"Player.h"
+	"Supervisor.h"
+	"Settings.h"
+
